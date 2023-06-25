@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**MaxTheSyntax/MaxTheSyntax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Helo 😎</h1>
+<p align="center"><i>Welcome to my page!</i></p>
+<br />
+<p><b><i>LANGUAGES</i> that I know:</b><br /></p>
+<ul>
+  <li>Batch</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>C#</li>
+  <li>Java</li>
+  <li>js/ts</li>
+  <li>Python</li>
+  <li>Rust</li>
+</ul>
+<p>And lastly, Minecraft command blocks :)</p>
