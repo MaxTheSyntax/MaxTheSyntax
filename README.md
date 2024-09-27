@@ -1,7 +1,7 @@
 ### <div align="center">Helo 😎</div>  
   
 
-- I’m currently working on [SyntaxToolkit](https://github.com/MaxTheSyntax/SyntaxToolkit) and [Better Snake](https://github.com/MaxTheSyntax/snek)
+- I’m currently working on [SyntaxToolkit](https://github.com/MaxTheSyntax/SyntaxToolkit)
   
 
 - I’m currently hoping to pass my class
